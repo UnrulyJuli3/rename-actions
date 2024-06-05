@@ -7,7 +7,7 @@ import requests
 
 paths = [
     "C:/Program Files (x86)/Steam/steamapps/common/The Jackbox Party Pack 3/games/TriviaDeath",
-    "C:/Program Files (x86)/Steam/steamapps/common/The Jackbox Party Pack 4/games/Bracketeering"
+    "C:/Program Files (x86)/Steam/steamapps/common/The Jackbox Party Pack 4/games/Bracketeering",
 ]
 
 create_backup = True

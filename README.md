@@ -6,6 +6,8 @@ Rename action package files to their internal names for readability. e.g. `12345
 
 Edit the `paths` array in the Python script.
 
+You may also change the `create_backup` parameter. `True` means it will back up your current `actions` folder to a folder named `actions-backup` if it does not already exist. `False` will disable this functionality.
+
 ## To make the game recognize the renamed files:
 
 - Open the game's main SWF file (e.g. games/TriviaDeath/TriviaDeath.swf) in a decompiler
